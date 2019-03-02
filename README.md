@@ -84,8 +84,6 @@ In the image description the 'Client' wanted the prices highlighted so this was 
 To get over the problem I had with black text flowing over dark images and not displaying very clear or readable
 I placed the text upon a <p class="bg-primary"> to highlist and make it readable.
 
-In the 'Gallery' page I have used a 'carousel' to display the 'Clients' images.
-
 The 'footer' has been left basic only with the 'Client's Company Copyright'.
 
 I hope I have covered everything, if not please give feedback on jfsystemsuk@yahoo.co.uk

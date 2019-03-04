@@ -5,7 +5,7 @@
 
 body {
   /* Location of the image */
-  background-image: url("backgrounds/Luxury_home.jpeg");
+  background-image: url("../backgrounds/Luxury_home.jpeg");
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;

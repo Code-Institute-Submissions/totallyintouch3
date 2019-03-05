@@ -8,7 +8,7 @@
 
 body {
   /* Location of the image */
-  background-image: url("assets/backgrounds/image_EU_NTEu_HL_C23552x60J_Nest_Hero_Close_up_2_0060_RGB_smp copy (1).jpg");
+  background-image: url("/assets/backgrounds/nest.jpg");
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;

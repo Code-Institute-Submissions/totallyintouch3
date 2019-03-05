@@ -3,10 +3,9 @@
 /*--------------------------------------------background image*/
 
 
-  
 body {
   /* Location of the image */
-  background-image: url("assets/backgrounds/Smart_Kitchen_background.jpg");
+  background-image: url("/assets/backgrounds/smart_kitchen.jpg");
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
@@ -209,5 +208,4 @@ button[type="submit"] {
 }    
 
 
-   
-
+  

@@ -5,7 +5,7 @@
 
 body {
   /* Location of the image */
-  background-image: url("assets/backgrounds/smart_kitchen.jpg");
+  background-image: url("backgrounds/smart_kitchen.jpg");
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;

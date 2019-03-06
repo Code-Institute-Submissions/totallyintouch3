@@ -5,7 +5,7 @@
 
 body {
   /* Location of the image */
-  background-image: url("assets/backgrounds/cctv.jpg");
+  background-image: url("backgrounds/cctv.jpg");
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
